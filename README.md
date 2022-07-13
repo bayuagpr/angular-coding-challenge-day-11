@@ -1,4 +1,4 @@
-# Day11HandsOn
+# Day 11 Hands On
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
